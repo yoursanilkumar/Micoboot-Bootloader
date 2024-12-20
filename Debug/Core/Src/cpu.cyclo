@@ -1,4 +1,0 @@
-../Core/Src/cpu.c:58:6:CpuInit	1
-../Core/Src/cpu.c:75:6:CpuStartUserProgram	3
-../Core/Src/cpu.c:150:6:CpuMemCopy	2
-../Core/Src/cpu.c:177:6:CpuMemSet	2
