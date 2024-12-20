@@ -1,0 +1,3 @@
+../Core/Src/hooks.c:79:10:CpuUserProgramStartHook	8	static
+../Core/Src/hooks.c:114:6:CopInitHook	4	static
+../Core/Src/hooks.c:131:6:CopServiceHook	4	static
