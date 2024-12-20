@@ -1,3 +1,0 @@
-../Core/Src/hooks.c:79:10:CpuUserProgramStartHook	2
-../Core/Src/hooks.c:114:6:CopInitHook	1
-../Core/Src/hooks.c:131:6:CopServiceHook	1

@@ -1,7 +1,0 @@
-../Core/Src/com.c:65:6:ComInit	1
-../Core/Src/com.c:110:6:ComTask	2
-../Core/Src/com.c:169:6:ComFree	1
-../Core/Src/com.c:185:6:ComTransmitPacket	2
-../Core/Src/com.c:240:12:ComGetActiveInterfaceMaxRxLen	6
-../Core/Src/com.c:282:12:ComGetActiveInterfaceMaxTxLen	6
-../Core/Src/com.c:323:10:ComIsConnected	2

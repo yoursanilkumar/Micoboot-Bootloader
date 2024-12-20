@@ -1,2 +1,0 @@
-../Core/Src/cpu_comp.c:40:6:CpuIrqDisable	1
-../Core/Src/cpu_comp.c:51:6:CpuIrqEnable	1
