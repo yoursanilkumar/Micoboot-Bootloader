@@ -1,0 +1,7 @@
+../Core/Src/com.c:65:6:ComInit	8	static
+../Core/Src/com.c:110:6:ComTask	16	static
+../Core/Src/com.c:169:6:ComFree	4	static
+../Core/Src/com.c:185:6:ComTransmitPacket	16	static
+../Core/Src/com.c:240:12:ComGetActiveInterfaceMaxRxLen	16	static
+../Core/Src/com.c:282:12:ComGetActiveInterfaceMaxTxLen	16	static
+../Core/Src/com.c:323:10:ComIsConnected	16	static
